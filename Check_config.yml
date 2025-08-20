@@ -1,7 +1,7 @@
 title: SkyFormOps
 description: Cloud Consulting, IT & Networking Solutions
 url: "https://ascension2anotherdimension.github.io"
-baseurl: ""
+baseurl: "/SKYFORMOPS"
 remote_theme: benbalter/retlab
 plugins:
   - jekyll-remote-theme
