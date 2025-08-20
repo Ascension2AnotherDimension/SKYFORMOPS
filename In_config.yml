@@ -1,6 +1,6 @@
 title: SkyFormOps
 description: Cloud & IT Networking Consulting for Small Businesses and Corporations
-baseurl: "" # leave empty if using root
+baseurl: "/SKYFORMOPS" # leave empty if using root
 url: "https://ascension2anotherdimension.github.io/SKYFORMOPS" # replace with your GitHub username
 
 # Activate the remote theme plugin
